@@ -8,4 +8,4 @@
 📫 How to reach me: ajitsahoo540@gmail.com, ajit292929@gmail.com <br>
 ⚡ Fun fact: I was lazy enough to be a programmer and now that's gone...
 
-[![The Wonderous Adventure](https://mdg.imgix.net/assets/images/shiprock.jpg?auto=format&fit=clip&q=40&w=1080)]
+![The Wonderous Adventure](https://mdg.imgix.net/assets/images/shiprock.jpg?auto=format&fit=clip&q=40&w=1080)
