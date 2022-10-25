@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajit029&label=Profile%20views&color=0e75b6&style=flat" alt="ajit029" /> </p>
 
-- 🔭 I’m currently working on **Performance Leverage**
+- 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Kotlin Language and Web Development**
+- 🌱 I’m currently learning **Kotlin Language and NLP**
 
 - 👯 I’m looking to collaborate on **NLP on Android**
 
