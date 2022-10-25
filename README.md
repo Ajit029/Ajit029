@@ -1,11 +1,40 @@
-## Hello Fellow Programmers 👋
+<h1 align="center">Hi 👋, I'm Ajit Kumar Sahoo</h1>
+<h3 align="center">Expert Android App Developer</h3>
 
-🔭 I’m currently working on **Software Development** <br>
-🌱 I’m currently learning **Web Development Technologies**, **Android App Development** and **Software Design Principles** <br>
-👯 I’m looking to collaborate on **Implementation of Natural Language Processing (NLP) models on Android Platform** <br>
-🤔 I’m looking for help with **Kotlin's Object Oriented Design Patterns** <br>
-💬 Ask me about **Technology**, **Computation**, **Self-improvement**, **Music Production**, **Chess** etc. <br>
-📫 How to reach me: ajitsahoo540@gmail.com, ajit292929@gmail.com <br>
-⚡ Fun fact: I was lazy enough to be a programmer and now that's gone...
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajit029&label=Profile%20views&color=0e75b6&style=flat" alt="ajit029" /> </p>
 
-![Funny Unicorn](https://i.pinimg.com/originals/9e/0e/dc/9e0edc3bf5589b737487f5680e2e9a46.gif)
+- 🔭 I’m currently working on **Performance Leverage**
+
+- 🌱 I’m currently learning **Kotlin Language and Web Development**
+
+- 👯 I’m looking to collaborate on **NLP on Android**
+
+- 🤝 I’m looking for help with **Kotlin Design Patterns**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Ajit029](https://github.com/Ajit029)
+
+- 📝 I regularly write articles on [https://medium.com/@ajitsahoo29](https://medium.com/@ajitsahoo29)
+
+- 💬 Ask me about **C++, Java, Kotlin, DSA, Android**
+
+- 📫 Reach me at **ajitsahoo540@gmail.com**
+
+- ⚡ Fun fact **I Love Technical Stuffs**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@ajitsahoo29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajitsahoo29" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC9d8y9KLJERwfgkzmYeO8TQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ajit kumar sahoo" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ajit029" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ajit029" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajit029&show_icons=true&locale=en&layout=compact" alt="ajit029" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajit029&" alt="ajit029" /></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ajitkumarsahoo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajitkumarsahoo" /></a></p><br><br>
