@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajit Kumar Sahoo</h1>
 <h3 align="center">Expert Android App Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajit029&label=Profile%20views&color=0e75b6&style=flat" alt="ajit029" /> </p>
-
 - 🔭 I’m currently working on **Software Development**
 
 - 🌱 I’m currently learning **Kotlin Language and NLP**
