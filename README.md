@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Kotlin Language and NLP**
+- 🌱 I’m currently learning **Kotlin Language and Jetpack Compose**
 
-- 👯 I’m looking to collaborate on **NLP on Android**
+- 👯 I’m looking to collaborate on **Android Design Architectures**
 
 - 🤝 I’m looking for help with **Kotlin Design Patterns**
 
