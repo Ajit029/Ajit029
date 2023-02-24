@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ajit Kumar Sahoo</h1>
-<h3 align="center">Expert Android App Developer</h3>
+<h3 align="center">Java Software Developer</h3>
 
 - 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Kotlin Language and Jetpack Compose**
+- 🌱 I’m currently learning **Core Java, DSA and Java FX**
 
-- 👯 I’m looking to collaborate on **Android Design Architectures**
+- 👯 I’m looking to collaborate on **Design Architectures**
 
-- 🤝 I’m looking for help with **Kotlin Design Patterns**
+- 🤝 I’m looking for help with **Design Patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajit029](https://github.com/Ajit029)
 
 - 📝 I regularly write articles on [https://medium.com/@ajitsahoo29](https://medium.com/@ajitsahoo29)
 
-- 💬 Ask me about **C++, Java, Kotlin, DSA, Android**
+- 💬 Ask me about **Java, DSA and OOPS**
 
 - 📫 Reach me at **ajitsahoo540@gmail.com**
 
