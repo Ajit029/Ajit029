@@ -40,5 +40,3 @@
 
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajit029&theme=zenburn" alt="ajit029" /></p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ajitkumarsahoo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajitkumarsahoo" /></a></p><br><br>
