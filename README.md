@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Core Java, DSA and Java FX**
+- 🌱 I’m currently learning **C Programming, DSA and C++**
 
 - 👯 I’m looking to collaborate on **Design Architectures**
 
@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ajitsahoo29](https://medium.com/@ajitsahoo29)
 
-- 💬 Ask me about **Java, DSA and OOPS**
+- 💬 Ask me about **C Programming Concepts, DSA and OOPS**
 
-- 📫 Reach me at **ajitsahoo540@gmail.com**
+- 📫 Reach me at **ajit292929@gmail.com**
 
 - ⚡ Fun fact **I Love Technical Stuffs**
 
