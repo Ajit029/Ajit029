@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Java, Kotlin, DSA and Android App Development**
+- 🌱 I’m currently learning **Cross Platform App Development**
 
-- 👯 I’m looking to collaborate on **Web Application Development**
+- 👯 I’m looking to collaborate on **Flutter**
 
 - 🤝 I’m looking for help with **Design Patterns and Android Architectures**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ajitsahoo29](https://medium.com/@ajitsahoo29)
 
-- 💬 Ask me about **Java, Kotlin, OOPS, and Android**
+- 💬 Ask me about **Kotlin, Dart, Jetpack Compose and Flutter**
 
 - 📫 Reach me at **ajit292929@gmail.com**
 
