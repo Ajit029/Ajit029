@@ -26,11 +26,3 @@
 <a href="https://www.codechef.com/users/ajit029" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ajit029" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajit029&show_icons=true&locale=en" alt="ajit029" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajit029&theme=noctis-minimus" alt="ajit029" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajit029&bg_color=20,D6CDA4,395144&title_color=fff&text_color=fff" alt="ajit029" /></p>
-
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajit029&theme=zenburn" alt="ajit029" /></p>
-
