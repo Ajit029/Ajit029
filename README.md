@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ajit Kumar Sahoo</h1>
 <h3 align="center">Android App Developer</h3>
 
-- 🔭 I’m currently working on **Software Development**
+- 🔭 I’m currently working on **Mobile App Development**
 
-- 🌱 I’m currently learning **Cross Platform App Development**
+- 🌱 I’m currently learning **Android App Development**
 
-- 👯 I’m looking to collaborate on **Flutter**
+- 👯 I’m looking to collaborate on **Jetpack Compose**
 
 - 🤝 I’m looking for help with **Design Patterns and Android Architectures**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ajitsahoo29](https://medium.com/@ajitsahoo29)
 
-- 💬 Ask me about **Kotlin, Dart, Jetpack Compose and Flutter**
+- 💬 Ask me about **Java, Kotlin and Jetpack Compose**
 
 - 📫 Reach me at **ajit292929@gmail.com**
 
