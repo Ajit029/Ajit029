@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Android App Development**
 
-- 👯 I’m looking to collaborate on **Jetpack Compose**
+- 👯 I’m looking to collaborate on **Jetpack Compose and Flutter**
 
-- 🤝 I’m looking for help with **Design Patterns and Android Architectures**
+- 🤝 I’m looking for help with **Design Patterns and Android Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajit029](https://github.com/Ajit029)
 
 - 📝 I regularly write articles on [https://medium.com/@ajitsahoo29](https://medium.com/@ajitsahoo29)
 
-- 💬 Ask me about **Java, Kotlin and Jetpack Compose**
+- 💬 Ask me about **Kotlin, Dart, Flutter and Jetpack Compose**
 
 - 📫 Reach me at **ajit292929@gmail.com**
 
