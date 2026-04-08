@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter App Development**
 
-- 👯 I’m looking to collaborate on **Jetpack Compose and Flutter**
+- 👯 I’m looking to collaborate on **Flutter**
 
 - 🤝 I’m looking for help with **Design Patterns and Android Architecture**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ajitsahoo29](https://medium.com/@ajitsahoo29)
 
-- 💬 Ask me about **Kotlin, Dart, Flutter, and Jetpack Compose**
+- 💬 Ask me about **Dart and Flutter**
 
 - 📫 Reach me at **ajit292929@gmail.com**
 
